@@ -38,7 +38,7 @@ main(){
 		RDivision = Dividir(dividendo,divisor);
 		printf("El resultado de la division (%.2f / %.2f ), es %.2f \n", dividendo, divisor, RDivision);
 	}else{
-		printf("\n No es posible realizar esta division \n");
+		printf("\n No es posible realizar esta division \n\n");
 	}
 	
 	
