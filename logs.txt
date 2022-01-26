@@ -1,0 +1,17 @@
+commit 4dba081f3a71414383ef32d99bc79e71ad4d4cba
+Author: Franco Albornoz <albfrank12@gmail.com>
+Date:   Thu Jul 29 16:23:24 2021 -0300
+
+    Ejercicio1 y Ejercicio2 resueltos, agrego libreria.
+
+commit 6c7713b86563e7d73c2b3f6f45f66a4a5386ca77
+Author: Franco Albornoz <albfrank12@gmail.com>
+Date:   Thu Jul 29 16:03:32 2021 -0300
+
+    Ejercicio1 y Ejercicio2 resueltos
+
+commit 41b771a68c9de2890aba2c0eaaadad040ef4483d
+Author: Franco Albornoz <albfrank12@gmail.com>
+Date:   Thu Jul 29 16:02:30 2021 -0300
+
+    Ejercicio1 resuelto
